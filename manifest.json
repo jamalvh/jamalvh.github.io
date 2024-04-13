@@ -1,6 +1,6 @@
 {
-    "name": "nextplaygames",
-    "short_name": "nextplaygames",
+    "name": "worldchat",
+    "short_name": "worldchat",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
