@@ -1,32 +1,32 @@
 {
-    "name": "worldchat",
-    "short_name": "worldchat",
+    "name": "UM-Tickets",
+    "short_name": "UM-Tickets",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#00274C",
+    "theme_color": "#00274C",
+    "description": "Buy & Sell Student Tickets",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "icons/Icon-192.png",
+            "src": "icons/favicon.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "icons/Icon-512.png",
+            "src": "icons/favicon.png",
             "sizes": "512x512",
             "type": "image/png"
         },
         {
-            "src": "icons/Icon-maskable-192.png",
+            "src": "icons/favicon.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "maskable"
         },
         {
-            "src": "icons/Icon-maskable-512.png",
+            "src": "icons/favicon.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "maskable"
