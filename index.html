@@ -33,8 +33,6 @@
   <link rel="manifest" href="manifest.json">
 
   <script>
-    // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "3344726800";
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
@@ -45,7 +43,7 @@
       // Download main.dart.js
       _flutter.loader.loadEntrypoint({
         serviceWorker: {
-          serviceWorkerVersion: serviceWorkerVersion,
+          serviceWorkerVersion: '"2138928742"',
         },
         onEntrypointLoaded: function(engineInitializer) {
           engineInitializer.initializeEngine().then(function(appRunner) {
