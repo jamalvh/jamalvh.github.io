@@ -91056,7 +91056,7 @@ k=t.w
 r=A.bD(a,m,k).w
 q=A.u0(m,B.FU,new A.am7(n),m,m,m)
 p=A.bD(a,m,k).w
-k=A.bD(a,m,k).w.a.a<750?B.F3:B.F2
+k=A.bD(a,m,k).w.a.a<500?B.F3:B.F2
 o=t.p
 return A.c3(m,A.ht(A.b([l,A.f5(A.ip(A.b([new A.c9(B.js,q,m),A.pw(new A.fH(B.lS,m,m,new A.c9(B.js,A.c3(m,new A.c9(k,new A.Dy(n.d,B.Ge,B.Qw,B.Pi,B.Pj,new A.am8(n),B.mH,!0,m),m),B.m,m,m,B.Bl,40,m,m,p.a.a*0.8),m),m)),new A.c9(B.js,A.u0(m,B.FS,new A.am9(n),m,m,m),m)],o),B.a5,B.R,B.a0),55,r.a.a)],o),B.a5,B.R,B.a0),B.m,m,m,B.Bj,m,m,m,m)},
 oS(){var s=0,r=A.G(t.H),q,p=this,o,n,m,l,k,j
