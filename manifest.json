@@ -1,11 +1,11 @@
 {
-    "name": "connections",
-    "short_name": "connections",
+    "name": "UM-Tickets",
+    "short_name": "UM-Tickets",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#00274C",
+    "theme_color": "#00274C",
+    "description": "Buy & Sell Student Tickets",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
