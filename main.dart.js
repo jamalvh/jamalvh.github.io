@@ -27850,8 +27850,7 @@ return A.t(A.a6R(A.aNi()),$async$rY)
 case 2:q=$.IN()
 s=3
 return A.t(A.awM(q),$async$rY)
-case 3:q.apY(new A.Nc(),t.yr)
-A.dD("before boxes")
+case 3:A.dD("before boxes")
 p=t.z
 s=4
 return A.t(q.qZ("util",p),$async$rY)
@@ -27860,6 +27859,7 @@ return A.t(q.qZ("lUser",p),$async$rY)
 case 5:s=6
 return A.t(q.qZ("chats",p),$async$rY)
 case 6:A.dD("after boxes")
+q.apY(new A.Nc(),t.yr)
 if($.as==null)A.axR()
 q=$.as
 q.toString
@@ -91997,8 +91997,8 @@ q=A.w6(p,B.ak,B.EC,B.ut,B.aD,new A.rf(n,q,n),n)
 p=$.a9
 o=(p==null?$.a9=$.b8():p).b2("[DEFAULT]")
 A.aD(o,$.cu(),!0)
-A.c6(new A.aY(o)).gbJ()
-return new A.AS(A.ag(["/sign-in",new A.apz(this),"/chat",new A.apA(this),"/account",new A.apB(this)],t.N,t.Ab),"/chat",r,q,s,!1,n)}}
+p=A.c6(new A.aY(o)).gbJ()==null?"/sign-in":"/chat"
+return new A.AS(A.ag(["/sign-in",new A.apz(this),"/chat",new A.apA(this),"/account",new A.apB(this)],t.N,t.Ab),p,r,q,s,!1,n)}}
 A.apC.prototype={
 $0(){var s=this.a.e
 $.a0g=s.bG(0,"Name")
