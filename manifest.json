@@ -1,6 +1,6 @@
 {
-    "name": "cube360",
-    "short_name": "cube360",
+    "name": "silhouette",
+    "short_name": "silhouette",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
